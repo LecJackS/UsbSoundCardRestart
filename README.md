@@ -18,3 +18,5 @@ for X in /sys/bus/usb/devices/*; do
     echo
 done
 ```
+
+Tested on Ubuntu 16.04 and 16.10.
