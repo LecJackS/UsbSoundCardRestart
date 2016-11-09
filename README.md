@@ -19,4 +19,4 @@ for X in /sys/bus/usb/devices/*; do
 done
 ```
 
-Tested on Ubuntu 16.04 and 16.10.
+Tested on Ubuntu 16.04 and 16.10 with a Lexicon Lambda sound card.
